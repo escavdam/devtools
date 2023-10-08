@@ -1,2 +1,7 @@
 # devtools
-Herramientas de desarrollo
+Este repositorio contiene informacón sobre las diferentes herramientas y tecnologias que utilizaremos durante el curso y que no pertenecen al mundo del backend o frontend como tal, pero son indispensables para el desarrollo de aplicaciones web.
+
+## [Terminal](01_terminal.md)
+## [IDE](02_ide.md)
+## [Git](03_git.md)
+## [GitHub](04_github.md)
