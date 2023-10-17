@@ -1,6 +1,8 @@
 # Terminal
 La terminal es una interfaz de texto que nos permite interactuar con el sistema operativo mediante comandos, es una herramienta muy potente, ya que nos permite realizar tareas de forma más rápida y eficiente que con una interfaz gráfica.
 
+> **Recuerda** que al instalar programas nuevos, debes reiniciar la terminal para que los cambios surtan efecto.
+
 ## Abrir la terminal
 Para abrir la terminal en Windows, podemos utilizar el comando `cmd` o `powershell` en el menú de inicio.
 
@@ -175,3 +177,4 @@ $ youtube-dl https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
 Funciona con muchos otros sitios web, como Vimeo, Facebook, Twitter, etc.
+
