@@ -25,24 +25,4 @@
 - [Javascript.info](https://es.javascript.info/), guia completa de JavaScript.
 - [MDN](https://developer.mozilla.org/es/), documentación de HTML, CSS y JavaScript.
 
-
-## Para BBDD necesitareis
-
-- Saber clonar un repositorio de GitHub, hacer commits y push.
-- Iniciar un proyecto básico de html + css + js.
-- Manipular strings y numeros
-- Almacenar datos en localStorage
-- Recuperar datos en localStorage
-- Mostrar datos en el DOM
-- Documentación con markdown
-
-## Para LMSGI necesitareis
-
-- Saber clonar un repositorio de GitHub, hacer commits y push.
-- Iniciar un proyecto básico de html + css + js.
-- Elementos básicos de HTML
-- Reset CSS
-- Saber centrar elementos con flexbox
-- Saber situar elementos de forma absoluta
-- Estilado básico de elementos
-- Estilado de texto
+https://forms.gle/nSTNc25J7aohujLg6
