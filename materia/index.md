@@ -30,7 +30,7 @@ Trabajar con ramas es una forma más segura de trabajar con git, nos permite cre
 
 Colaborar y enviar cambios a repositorios remotos es más fácil con los pull requests, asi evitaremos conflictos y podremos revisar los cambios antes de incorporarlos al repositorio.
 
-## [Paths](05_Paths.md)
+## [Paths](05_paths.md)
 
 Los paths son las rutas que utilizamos para acceder a los archivos de nuestro ordenador. Es importante conocerlos para poder trabajar con ellos desde la terminal.
 
@@ -38,7 +38,7 @@ Los paths son las rutas que utilizamos para acceder a los archivos de nuestro or
 
 FFMPEG es una herramienta que nos permite trabajar con archivos multimedia desde la terminal.
 
-## [Figlet](07_Figlet.md)
+## [Figlet](07_figlet.md)
 
 Figlet es una herramienta que nos permite crear ASCII art desde la terminal.
 

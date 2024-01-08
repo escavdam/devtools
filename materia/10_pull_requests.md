@@ -16,7 +16,7 @@ Los pasos para hacer un pull request son los siguientes:
 
 Para hacer un fork de un repositorio, vamos a la página del repositorio en github y hacemos click en el botón `Fork`.
 
-![fork](fork.png)
+![fork](imgs/fork.png)
 
 Esto creará una copia del repositorio en nuestra cuenta de github, completamente aparte del repositorio original.
 
