@@ -1,0 +1,17 @@
+{
+  "name": "devtools",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene informacón sobre las diferentes herramientas y tecnologias que utilizaremos durante el curso y que no pertenecen al mundo del backend o frontend como tal, pero son indispensables para el desarrollo de aplicaciones web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev materia",
+    "build": "vitepress build materia"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.36"
+  }
+}
